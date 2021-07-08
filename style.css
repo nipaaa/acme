@@ -1,0 +1,51 @@
+section{
+    display: flex;
+}
+.header{
+    background-image: url(img/header-background.png);
+    background-repeat: no-repeat;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    color: white;
+}
+.sec-section{
+    text-align: center;
+    margin: 0% 20%;
+}
+.third-sec{
+    background-color: black;
+    margin: 0% 20%;
+    color: white;
+    padding: 2%;
+}
+.fourth-part{
+    text-align: center;
+}
+.last-part{
+    text-align: center;
+    color: white;
+    padding: 1%;
+}
+#last1{
+    background-color: #3451f7;
+    width: 50%;
+}
+#last2{
+    background-color: rgba(0, 0, 0, 0.692);
+    width: 50%;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 2%;
+
+}
+#foot1{
+    width: 50%;
+}
+#foot2{
+    width: 50%;
+}
+
